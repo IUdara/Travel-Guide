@@ -76,7 +76,7 @@ public class PlaceDetailsFragment extends Fragment {
         final ImageView coverImg = (ImageView) fragmentView.findViewById(R.id.place_cover_iv);
         final TextView descriptionTxt = (TextView) fragmentView.findViewById(R.id.place_details_tv);
 
-        Uri coverBm = UriHandler.createUriForAnImage(((Place) mParam2).getCoverImageUrl(), 150);
+        Uri coverBm = UriHandler.createUriForAnImage(((Place) mParam2).getCoverImageUrl(), 185);
 
         Picasso.with(this.getContext())
                 .load(coverBm)
