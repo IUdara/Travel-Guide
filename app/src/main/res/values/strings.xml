@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Travel-Guide</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="welocome_note">Plan your tour\n by selecting places to visit,\n hotels to stay and many more</string>
+
+    <string name="begin_btn_note">Begin by\n selecting a place</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
